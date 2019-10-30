@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>u-shape_original_IMG_0035.JPG_7a3ed88a-75bb-4e13-8dc4-05382ac82724.JPG</filename>
+	<path>C:\Users\anon\OneDrive - Aarhus universitet\BDE 2016\bde 7 semester\image classification\classified pictures\u-shape\output\u-shape_original_IMG_0035.JPG_7a3ed88a-75bb-4e13-8dc4-05382ac82724.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>u-shape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>39</ymin>
+			<xmax>64</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

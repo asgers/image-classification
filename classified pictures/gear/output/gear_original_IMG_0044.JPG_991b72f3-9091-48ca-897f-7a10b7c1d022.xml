@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>gear_original_IMG_0044.JPG_991b72f3-9091-48ca-897f-7a10b7c1d022.JPG</filename>
+	<path>C:\Users\anon\OneDrive - Aarhus universitet\BDE 2016\bde 7 semester\image classification\classified pictures\gear\output\gear_original_IMG_0044.JPG_991b72f3-9091-48ca-897f-7a10b7c1d022.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>58</ymin>
+			<xmax>82</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>
